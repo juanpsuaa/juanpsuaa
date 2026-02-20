@@ -17,8 +17,8 @@
   <a href="mailto:TU_EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/juanespana">
-    <img src="https://github.com/juanpsuaa"/>
+  <a href="https://github.com/juanpsuaa">
+    <img src="https://github.com/juanespana"/>
   </a>
 </p>
 
