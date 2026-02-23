@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/juan-suarez-0011ab3b3](https://www.linkedin.com/in/juan-suarez-0011ab3b3">
+  <a href="https://www.linkedin.com/in/juan-suarez-0011ab3b3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:juanpsuaa@gmail.com">
@@ -81,7 +81,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,maven,git,github,html,css,js" />
 </p>
 
 ---
