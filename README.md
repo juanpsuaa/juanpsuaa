@@ -34,6 +34,7 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** .
 >Trabaja duro hoy para poder descansar mejor mañana.
+Tengo 19 años, soy una persona que busca crecer y mejorar, siempre estoy dispuesto a aprender algo nuevo.
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
@@ -116,8 +117,8 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
+💼 LinkedIn —https://www.linkedin.com/in/juan-suarez-0011ab3b3
+📧 Email — juanpsuaa@gmail.com
 🌐 Portfolio — https://TU_WEB  
 
 </p>
