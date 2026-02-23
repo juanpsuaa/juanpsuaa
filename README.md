@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="www.linkedin.com/in/juan-suarez-0011ab3b3](https://www.linkedin.com/in/juan-suarez-0011ab3b3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:juanpsuaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/juanpsuaa">
@@ -26,11 +26,10 @@
 
 ## 🧠 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** Trabaja duro hoy, para descansar mejor mañana.
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
-- ⚙️ APIs REST con Java / Spring  
 - 🌍 Trabajo con metodologías ágiles  
 - 📚 Aprendizaje continuo  
 
