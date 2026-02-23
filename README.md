@@ -34,6 +34,7 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** .
 >Trabaja duro hoy para poder descansar mejor mañana.
+>
 Tengo 19 años, soy una persona que busca crecer y mejorar, siempre estoy dispuesto a aprender algo nuevo.
 
 - 🚀 Interés en desarrollo Full Stack  
