@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p>
+  <img
+</p>
 <h1 align="center">👋 Juan Pablo Bermúdez Suárez</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
 
