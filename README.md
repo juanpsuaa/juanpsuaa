@@ -13,7 +13,7 @@
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
 
-  **Trabaja duro hoy, para poder descansar mejor mañana.**
+
 
 
 <p align="center">
@@ -33,6 +33,7 @@
 ## 🧠 Sobre mí
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** .
+>Trabaja duro hoy para poder descansar mejor mañana.
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
