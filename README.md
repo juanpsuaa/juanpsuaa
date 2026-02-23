@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+🧼 Clean Code • 🌱 Open Source • ❤️ Amante de la tecnologia.
 </p>
 
 
