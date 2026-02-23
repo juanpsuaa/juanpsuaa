@@ -12,9 +12,9 @@
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
-<p align ="center">
-  >Trabaja duro hoy, para poder descansar mejor mañana.
-</p>
+
+  **Trabaja duro hoy, para poder descansar mejor mañana.**
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-suarez-0011ab3b3">
