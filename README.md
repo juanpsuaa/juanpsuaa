@@ -11,7 +11,9 @@
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
-  **trabaja duro hoy, para descansar mejor mañana**
+</p>
+<p>
+  Trabaja duro hoy, para poder descansar mejor mañana.
 </p>
 
 <p align="center">
