@@ -123,7 +123,7 @@ Panel interactivo de visualización de datos.
 
 💼 LinkedIn —https://www.linkedin.com/in/juan-suarez-0011ab3b3
 📧 Email — juanpsuaa@gmail.com
-🌐 Portfolio — https://TU_WEB  
+🌐 Portfolio — https://juanpsuaa.github.io  
 
 </p>
 
