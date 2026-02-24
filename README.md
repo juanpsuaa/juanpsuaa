@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./github-header-banner.png" width=300 />
+  <img src="./github-header-banner.png"  />
 </p>
 <p>
   <img
