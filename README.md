@@ -51,29 +51,6 @@ Tengo 19 años, soy una persona que busca crecer y mejorar, siempre estoy dispue
 
 <table>
 <tr>
-
-<td width="33%" align="center">
-
-### 📱 App Android  
-Java · Android Studio  
-
-Aplicación móvil desarrollada en Android para gestión de tareas.
-
-➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔗 API REST  
-Java · Spring · Maven  
-
-Backend REST para gestión de datos y servicios.
-
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
-
-</td>
-
 <td width="33%" align="center">
 
 ### 📊 Dashboard Web  
