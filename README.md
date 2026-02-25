@@ -47,23 +47,6 @@ Tengo 19 años, soy una persona que busca crecer y mejorar, siempre estoy dispue
 
 ---
 
-## ⭐ Proyectos Destacados
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📊 Dashboard Web  
-React / Web  
-
-Panel interactivo de visualización de datos.
-
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
-
-</td>
-
-</tr>
-</table>
 
 ---
 
