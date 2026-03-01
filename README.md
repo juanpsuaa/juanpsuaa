@@ -9,7 +9,7 @@
 <h3 align="center">💻 Desarrollador de Software</h3>
 
 <p align="center">
-  <img src="perfil.jpg" width=300 />
+  <img src="WhatsApp Image 2026-03-01 at 11.42.37.jpeg" width=300 />
 </p>
 
 <p align="center">
